@@ -5,7 +5,8 @@ Nuevo hyperblog creado para curso de github
 - Lo recomiendo totalmente.
 - El profesor Freddy excelente.
 - Creado por Luimar Jaimes.
-- Incluye ejemplos. 
+- Incluye ejemplos.
+- Disponibles para todas las edades. 
 
 #### GitHub lo nuevo para programadores
 
